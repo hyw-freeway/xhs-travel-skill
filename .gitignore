@@ -1,0 +1,18 @@
+# 依赖的 MCP 服务（用户按 README 自行克隆）
+xiaohongshu-mcp/
+
+# 敏感与本地数据
+**/cookies.json
+**/cookies/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 可选：生成的 PDF（若只保留 md 可取消注释）
+# *.pdf
